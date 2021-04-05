@@ -1,0 +1,20 @@
+IP Address: 202.157.187.161
+
+Hostname: exabytes-90792685
+
+
+SSH IP: 202.157.187.161
+
+SSH Username: root
+
+SSH Password: td0148LVsTVE6eea9F
+
+SSH Port: 8288
+
+
+
+VNC IP: 103.82.242.207
+
+VNC Port: 5991
+VNC 
+Password: Pw_6175169508
